@@ -18,40 +18,54 @@
   * Ваша первая программа 
 #### Материалы
 [Слайды урока](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/l1.pdf)  
-[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/main.go)
-
+[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/main.go)  
 [Ссылка на домашнее задание](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/t1.pdf)  
+[Видео](https://www.youtube.com/watch?v=0mdBIpRqJvU) [урока](https://www.youtube.com/watch?v=UdJ-kYcyUZk)   
 
 ## Занятие 2
-#### Материалы
-[Открывающие слайды](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.1.0/Keyword2.pdf)  
-[Слайды урока](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.1.0/Go.Beginners.Innopolis.2.pdf)  
-[Ссылка на домашнее задание](https://play.golang.org/p/UeZfvGzBTUb)  
-[Ссылка на домашнее задание со звёздочкой](https://play.golang.org/p/hlwxQM0rHmX)  
-[Форма для сдачи домашнего задания](https://forms.gle/T3epCmce9UssFWPo9)  
 #### Содержание
-  * Управление потоком
-  * Массивы, срезы, карты
+  * Типы данных, конвертация типов 
+  * Переменные, константы, арифметические операции 
+  * Области видимости 
+#### Материалы
+[Слайды урока](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v2/l2.pdf)  
+[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v2/main.go)  
+[Ссылка на домашнее задание часть 1](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v2/t2.pdf)  
+[Ссылка на домашнее задание часть 2](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v2/t2_1.pdf)  
+[Видео](https://www.youtube.com/watch?v=amrNZtYdgTQ) [урока](https://www.youtube.com/watch?v=a7lulyfl0Ms)   
 
-## [Занятие 3](https://www.meetup.com/GDG-Cloud-Innopolis/events/268773574/)
-[Слайды урока](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.2.0/Go.Beginners.Innopolis.3.pdf)  
-[Ссылка на домашнее задание](https://play.golang.org/p/G6YMZMHnotU)  
-[Ссылка на домашнее задание со звёздочкой](https://play.golang.org/p/wpefmNMZQWL)  
-[Форма для сдачи домашнего задания](https://forms.gle/AcUQ9zH3BPtPoLoN6)  
+## Занятие 3
+#### Содержание
+  * Управляющие конструкции (условия, конструкции, циклы)
+  * Срезы, массивы, мапы 
+#### Материалы
+[Слайды урока](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v3/l3.pdf)  
+[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v3/main.go)  
+[Ссылка на домашнее задание](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v3/t3.pdf)  
+[Видео](https://www.youtube.com/watch?v=FOzoPWC7PLU) [урока](https://www.youtube.com/watch?v=h-ycr3D_fb0)   
+
+## Занятие 4
 #### Содержание
   * Функции
-  * Указатели
+  * Указатели 
+#### Материалы
+[Слайды урока](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v4/l4.pdf)  
+[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v4/main.go)  
+[Ссылка на домашнее задание](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v4/t4.pdf)  
+[Видео](https://www.youtube.com/watch?v=q7Dfd93zTNA) [урока](https://www.youtube.com/watch?v=tU1XlijY3T0)   
 
-## [Занятие 4](https://www.meetup.com/GDG-Cloud-Innopolis/events/268974970/)
-[Слайды урока](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.3.0/Go.Beginners.Innopolis.4.pdf)   
-[Ссылка на домашнее задание](https://play.golang.org/p/QeTIqPp3tbF)  
-[Форма для сдачи домашнего задания](https://forms.gle/eA5htEBiQ9AVeCy78)  
-[*Никита Кондратьев* - Tips & Tricks](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.3.0/Tips_Tricks.pdf)  
+## Занятие 5
 #### Содержание
   * Структуры и интерфейсы
-  * Многопоточность
+  * Конкурирование или многопоточность? 
+#### Материалы
+[Слайды урока](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v5/l5.pdf)  
+[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v5/src.zip)  
+[Ссылка на домашнее задание](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v5/t5.pdf)  
+[Видео](https://www.youtube.com/watch?v=FG45mfQi2uI) [урока](https://www.youtube.com/watch?v=tvtJrUwmON0)  
+[*Никита Кондратьев* - Tips & Trics](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v5/l5_1.pdf)
 
-#### Tips & Tricks
+#### Tips & Tricks. Структуры и интерфейсы
 **Никита Кондратьев (Разработчик, юнит SafeDeal, Авито)**
 
 1. Принимайте интерфейсы, возвращайте структуры.
@@ -65,16 +79,17 @@
 9. Держите в голове, что encoding/json может работать только с "публичными" полями структур.
 10. Учитывайте, что тип и указатель на тип имеют разные наборы методов.
 
-## [Занятие 5](https://www.meetup.com/GDG-Cloud-Innopolis/events/269128333/)
-[Слайды урока](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.4.0/Go.Beginners.Innopolis.5.pdf)   
-[Ссылка на домашнее задание](https://play.golang.org/p/_6SP-Dj79fY)  
-[Форма для сдачи домашнего задания](https://forms.gle/pYfUzci4FMuPv8pb7)  
-[*Вячеслав Бобик* - Tips & Tricks](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.4.0/package-naming-and-structuring.pdf)  
-[*Сергей Иваненко* - Tips & Tricks](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.4.0/Unit.Go.Tips.and.Trics.pptx.pdf)  
-
+## Занятие 6
 #### Содержание
-  * Пакеты и повторное использование кода
-  * Тестирование
+  * Пакеты и повторное использование кода 
+  * Документирование кода 
+  * Обработка ошибок 
+#### Материалы
+[Слайды урока](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v6/l6.pdf)  
+[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v6/src.zip)  
+[Ссылка на домашнее задание](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v6/t6.pdf)  
+[Видео](https://www.youtube.com/watch?v=t9tpBCF-Nvc) [урока](https://www.youtube.com/watch?v=zDXjAMrzAwU)  
+[*Вячеслав Бобик* - Tips & Tricks](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v6/l6_1.pdf)
 
 #### Tips & Tricks. Пакеты и повторное использование кода
 **Вячеслав Бобик (Разработчик, юнит Messenger, Авито)**  
@@ -92,6 +107,21 @@
    - Где черпать вдохновение: пример на репозиторий go-package-layout
    - Луше маленькая копипаста, чем зависимость.
 
+
+## Занятие 7
+#### Содержание
+  * Тестирование
+  * Стандартная библиотека
+  * Следующие шаги 
+#### Материалы
+[Слайды урока](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v7/l7.pdf)  
+[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v7/src.zip)  
+[Ссылка на домашнее задание](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v7/t7.pdf)  
+[Видео](https://www.youtube.com/watch?v=uEVMwra0TrM) [урока](https://www.youtube.com/watch?v=fJI7WdDcn_A)  
+[*Сергей Иваненко* - Tips & Tricks](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v7/l7_1.pdf)
+
+
+#### Tips & Tricks. Unit тестирование в Go
 **Сергей Иваненко (Support Systems developer, Avito)**  
 Рассмотрены будут примеры unit тестинга простых ф-ий, файлов, http клиентов, sql запросов. Будет проиллиюстированно как стороннипакеты(facker, mockery, spf13/afero) помогают в этом вопросе, поговорим о внедрении зависимостей и как это помогает при тестировании.  
 Встроенные инструменты code coverace, benchmark.
@@ -105,41 +135,14 @@
  - code race condition, parrallel
  - benchmark
 
-## [Занятие 6](https://www.meetup.com/GDG-Cloud-Innopolis/events/269298234)
-[Слайды урока](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.5.0/Go.Beginners.Innopolis.6.pdf)    
-[Форма для сдачи домашнего задания](https://forms.gle/b3vD8FEhc1JKkYJ29)  
-[*Иван Осадчий* - Tips & Tricks](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.5.0/Go.Standard.Library.pdf)  
-
-#### Содержание
-  * Стандартная библиотека
-  * Дальнейшие шаги
-
-#### Tips & Tricks. Стандартная библиотека.
-Иван Осадчий (Разрабочтик, юнит Monetization, Авито)
-
-  - Идеология: какой задумывалась Go stdlib
-  - Масштаб проблемы: размер, функциональность
-  - Как ориентироваться в stdlib?
-  - Часто используемые пакеты
-  - Полезные комбо: как пакеты работают вместе
-  - Чего нет в стандартной библиотеке и почему?
-  - Как искать пакеты под свои нужды?
-  - Как переиспользовать наработки коллег?
-  - Что дальше: куда копать, что важно знать?
-
 ## Преподаватели
-Эмиль [@litleleprikon](https://tttttt.me/litleleprikon)  
-Алик [@alikhil](https://tttttt.me/alikhil)  
-Искандер [@quasilyte](https://tttttt.me/quasilyte)  
+[Дима Клестов (Инносети)](https://t.me/MaJloe_3Jlo)  
 
 ## Tips & Tricks
-Вячеслав Бобик [Avito](https://tttttt.me/victor3)  
-Никита Кондратьев [Avito](https://tttttt.me/nskondratev)  
-Иван Осадчий [Avito](https://tttttt.me/ivan_os)  
-Сергей Иваненко [Avito](https://tttttt.me/SergeyWh1te)  
+[Вячеслав Бобик (Avito)](https://t.me/victor3)  
+[Никита Кондратьев (Avito)](https://t.me/nskondratev)    
+[Сергей Иваненко (Avito)](https://t.me/SergeyWh1te)  
 
 ## Организация
-Оля [@luzhajka](https://tttttt.me/luzhajka)  
-Раис [@rais_khadeev](https://tttttt.me/rais_khadeev)  
-Кирилл [@kirilldemtchenko](https://tttttt.me/kirilldemtchenko)  
-Миша [@oldtuna](https://tttttt.me/oldtuna)
+[Мария Круглова (GDG Kaliningrad)](https://t.me/mkruglova)  
+[Никита Русин (GDG Kaliningrad)](https://t.me/rusinikita)  
