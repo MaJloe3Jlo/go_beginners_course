@@ -9,19 +9,20 @@
 Курс предназначен для тех, кто хочет познакомиться с языком Go. Уровень не важен. Подходит как для тех кто имеет большой опыт и просто хочет познакомиться с языком, так и для тех кто только начинает погружаться в мир программирования.
 
 # План курса
-[План](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/plan/plan.pdf)
+[План](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/plan.pdf)
 
 ## Занятие 1
-#### Материалы
-[Слайды урока](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.0.0/Go.Beginners.Innopolis.pdf)  
-[Ссылка на домашнее задание](https://play.golang.org/p/1Jf-y7_Fy8j)  
 #### Содержание
-  * Приступая к работе  
-  * Ваша первая программа  
-  * Типы  
-  * Переменные  
+  * История языка
+  * Подготовка к работе
+  * Ваша первая программа 
+#### Материалы
+[Слайды урока](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/l1.pdf)  
+[Практика](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/main.go)
 
-## [Занятие 2](https://www.meetup.com/GDG-Cloud-Innopolis/events/268532521/)
+[Ссылка на домашнее задание](https://github.com/MaJloe3Jlo/go_begginers_course/releases/download/v1/t1.pdf)  
+
+## Занятие 2
 #### Материалы
 [Открывающие слайды](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.1.0/Keyword2.pdf)  
 [Слайды урока](https://github.com/GDG-Cloud-Innopolis/Go-begginners/releases/download/v1.1.0/Go.Beginners.Innopolis.2.pdf)  
